@@ -1,0 +1,5 @@
+<library path="depthai_test_plugin">
+    <class type="depthai_test_plugin::pipeline_gen::RGB_test_pipeline" base_class_type="depthai_ros_driver::pipeline_gen::BasePipeline">
+        <description>Test Pipeline.</description>
+    </class>
+</library>

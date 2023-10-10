@@ -1,0 +1,9 @@
+/oak:
+  ros__parameters:
+    camera:
+      i_nn_type: none
+      i_pipeline_type: depthai_test_plugin::pipeline_gen::RGB_test_pipeline
+      i_publish_topic: true
+      i_enable_imu: false
+    stereo:
+      i_subpixel: true
